@@ -87,3 +87,10 @@ This BMI Calculator is a Python-based desktop application built using the **Tkin
 
 ### Author
 This application was developed using Python and Tkinter. Contributions are welcome!
+
+## Images
+
+<img width="346" alt="bm1" src="https://github.com/user-attachments/assets/2f5f9122-e91d-47a9-8f86-f19e842de5f9" />
+<img width="347" alt="bm2" src="https://github.com/user-attachments/assets/8b027982-c62b-4fdf-a5ec-dd0cca963b11" />
+<img width="348" alt="bm3" src="https://github.com/user-attachments/assets/93a9c230-50d7-4708-a16b-12b70e481cb0" />
+
